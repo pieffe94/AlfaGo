@@ -94,7 +94,8 @@ h1,h2,h3,h4,h5,h6,label,p{
 
 }
 .header-top{
-	  background: rgba(255, 93, 86, 0.26);
+	  /*background: rgba(255, 93, 86, 0.26);*/
+	  background: rgba(88,98,111, 0.26);
 }
 .header-info {
   padding: 0;
@@ -151,7 +152,8 @@ ul.support-right li i.tele {
 }
 .logo  h1 a{
 	text-decoration:none;
-	color:#ff5d56;
+	/*color:#ff5d56;*/
+	color:#ffffff;
 }
 .logo  h1 span{
 	color:#fff;
@@ -181,7 +183,7 @@ ul.support-right li i.tele {
   margin: 11% auto;
 }
 .banner-top{
-		background: rgba(255, 93, 86, 0.2);
+		background: rgba(88,98,111, 0.26);
 		padding: 1em 3em;
 		
 }
@@ -198,7 +200,7 @@ ul.support-right li i.tele {
   font-weight: 300;
 }
 a.morebtn{
-	background:#ff5d56;
+	background:#837EB1;
 	padding:0.2em 0;
 	display:block;
 	font-size:1.7em;
@@ -206,7 +208,7 @@ a.morebtn{
 	width:40%;
 	margin:0 auto;
 	float: left;
-	border: 1px solid #ff5d56;
+	border: 1px solid #837EB1;
 	text-align: center;
 	text-decoration: none;
 }
@@ -298,10 +300,10 @@ width: 50%;
   margin: 0 0.5em 0;
 }
 .resp-tab-active{
-	background:#ff5d56;
+	background:#837EB1;
 	text-shadow: none;
 	color:#fff;
-	border: 2px solid #ff5d56;
+	border: 2px solid #837EB1;
 }
 .resp-tabs-container {
 	padding: 0px;
@@ -383,7 +385,7 @@ ul.round-top i.glyphicon.glyphicon-resize-small{
 }
 h6.jean{
   float: left;
-  color: #fff;
+  color: #EFEFEF;
   font-size: 1.9em;
   font-weight: 600;
   margin-top: 0.3em;
@@ -391,7 +393,8 @@ h6.jean{
 span.dollor{
   float: right;
   font-size: 2.5em;
-  color: rgba(205, 11, 33, 0.99);
+  color: #EFEFEF;
+  /*rgba(205, 11, 33, 0.99); */
   font-weight: 400;
 }
 .social-in {
@@ -475,7 +478,7 @@ span.dollor{
   padding: 0px 18px 0 12px;
 }
 .product-left:hover .p-one p a{
-	color: #ff5d56;
+	color: #837eb1;
 }
 .product-left:hover .mask{
 	display:block;
@@ -487,7 +490,7 @@ span.dollor{
 	left: 33%;
 }
 .mask span{
-	background:#ff5d56;
+	background:#837EB1;
 	color:#fff;
 	font-size:15px;
 	font-weight:400;
@@ -499,7 +502,7 @@ span.dollor{
 }
 .mask span:hover{
 	text-decoration:none;
-	background:#181b2a;
+	background:#5b558d;
 	transition: 0.7s all;
 	-webkit-transition: 0.7s all;
 	-o-transition: 0.7s all;
@@ -548,7 +551,7 @@ color: #242424;
 /*--footer--*/
 .footer{
 	background: #FAFAFA;
-	padding: 4em 0 0;
+	padding: 2em 0 0;
 }
 .footer-top h3,.footer-middle h3{
 	color:#010101;
@@ -780,7 +783,7 @@ ul.social-footer {
   font-size: 1em;
   color: #444444;
   text-align: center;
-  margin: 5em 0 3em;
+  padding-bottom: 2em;
 }
 p.footer-class a{
  		text-decoration: none;
